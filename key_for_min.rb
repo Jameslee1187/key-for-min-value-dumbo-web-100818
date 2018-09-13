@@ -8,3 +8,4 @@ name_hash.do each |k, v|
 if min_key == nil
   min_key = k
   min_val = v
+  elsif 
