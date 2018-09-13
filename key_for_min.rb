@@ -9,3 +9,4 @@ if min_key == nil
   min_key = k
   min_val = v
   elsif min_val > v
+  min_val = v
