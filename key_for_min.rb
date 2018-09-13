@@ -13,3 +13,5 @@ if min_key == nil
   min_key = k
 end
 end
+min_key
+end
