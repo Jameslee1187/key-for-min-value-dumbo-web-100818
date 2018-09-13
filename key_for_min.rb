@@ -10,3 +10,5 @@ if min_key == nil
   min_val = v
   elsif min_val > v
   min_val = v
+  min_key = k
+  
